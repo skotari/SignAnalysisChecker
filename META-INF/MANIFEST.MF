@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SignAnalysisChecker
+Bundle-SymbolicName: SignAnalysisChecker;singleton:=true
+Bundle-Version: 1.0.0
+Require-Bundle: org.eclipse.core.runtime,
+ edu.cmu.cs.crystal;bundle-version="3.5.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: org.eclipse.jdt.core.dom
