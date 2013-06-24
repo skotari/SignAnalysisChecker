@@ -3,15 +3,14 @@
 ===========================================================================
 @Authors: Satya Kotari
 @Date of creation: 3/18/13
-@Email address: fd1189@wayne.edu
 @Version: 1.0
 ===============================================================================
 DESCRIPTION:
 
-Java program that implement sign analysis  using Crystal’s
+Java program that implement sign analysis  using Crystals
 dataflow analysis capabilities.
 
-This program produces a message ”error” or ”warning” if the array index will definitely, or might
+This program produces a message error or warning if the array index will definitely, or might
 possibly, be less than zero.
 
 
